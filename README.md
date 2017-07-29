@@ -5,7 +5,7 @@
 
 ## cnn
 
-[Personal explanation](https://v.qq.com/x/page/m05215ungst.html)
+[Personal explanation](https://v.qq.com/x/page/m05215ungst.html) "deep learning(1):CNN"
 
 ## rnn
 
