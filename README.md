@@ -9,18 +9,17 @@
 
 > Usage
 
-* git clone git@github.com:wangyarui/deep-learning.git
-* cd cnn
-* python conv.py
+*  git clone git@github.com:wangyarui/deep-learning.git
+*  cd cnn
+*  python conv.py
 ![conv](https://github.com/wangyarui/deep-learning/blob/master/cnn/figure_1.jpeg)
-* python pooling 
+*  python pooling 
 ![pooling](https://github.com/wangyarui/deep-learning/blob/master/cnn/figure_2.jpeg)
 I took half hour using Theano with GPU,Please take patience.
 * cd cnn_LeNet
-* python convolutional_mlp.py
+*  python convolutional_mlp.py
 ![final results](https://github.com/wangyarui/deep-learning/blob/master/cnn/results2.png)
-![final results](https://github.com/wangyarui/deep-learning/blob/master/cnn/results1.png)
-
+![final results](https://github.com/wangyarui/deep-learning/blob/master/cnn/results3.png)
 ## rnn
 
 [Personal explanation](https://v.qq.com/x/page/s0523iglx3p.html) deep learning(2):RNN
@@ -48,7 +47,7 @@ I took half hour using Theano with GPU,Please take patience.
 
 * python train-theano.py
 * python rnn_theano.py
-
+![final results](https://github.com/wangyarui/deep-learning/blob/master/cnn/results1.png)
 * I took three days using Theano with GPU,Please take more patience.
 
 ## AutoEncoder
@@ -58,9 +57,9 @@ I took half hour using Theano with GPU,Please take patience.
 
 * cd AutoEncoder
 * python basicAE.py
-![results 1](https://github.com/wangyarui/deep-learning/blob/master/cnn/results1.png)
-![results 2](https://github.com/wangyarui/deep-learning/blob/master/cnn/results1.png)
+![results 1](https://github.com/wangyarui/deep-learning/blob/master/AutoEncoder/figure_1.png)
+![results 2](https://github.com/wangyarui/deep-learning/blob/master/AutoEncoder/figure_2.jpeg)
 * python convDAE.py
-![results 3](https://github.com/wangyarui/deep-learning/blob/master/cnn/results1.png)
+![results 3](https://github.com/wangyarui/deep-learning/blob/master/AutoEncoder/figure_3.jpeg)
 
 
