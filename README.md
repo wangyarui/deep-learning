@@ -61,5 +61,15 @@ I took half hour using Theano with GPU,Please take patience.
 ![results 2](https://github.com/wangyarui/deep-learning/blob/master/AutoEncoder/figure_2.jpeg)
 * python convDAE.py
 ![results 3](https://github.com/wangyarui/deep-learning/blob/master/AutoEncoder/figure_3.jpeg)
+## Q-learning
+
+[Personal explanation](https://v.qq.com/x/page/k0547s94d6s.html) deep learning(5):Q-learning
+> Usage
+#### Install tensorflow
+* cd Q-learning
+* python RLtest.py
+
+
+
 
 
