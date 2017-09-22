@@ -68,6 +68,7 @@ I took half hour using Theano with GPU,Please take patience.
 #### Install tensorflow
 * cd Q-learning
 * python RLtest.py
+![final results](https://github.com/wangyarui/deep-learning/blob/master/Q-Learning/figure4-1.png)
 
 
 
